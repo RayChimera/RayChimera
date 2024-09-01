@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates (each day)
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -28,6 +28,8 @@ jobs:
           user: RayChimera
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
+          config_display: columns
           config_timezone: Asia/Yerevan
           plugin_habits: yes
           plugin_habits_charts_type: classic
