@@ -1,6 +1,6 @@
 ![Metrics](/github-metrics.svg)
 
-[![wakatime](https://wakatime.com/badge/user/4bb6a2d0-5690-4211-836b-ba1d5a05c040.svg)](https://wakatime.com/@4bb6a2d0-5690-4211-836b-ba1d5a05c040)
+[There was a funny little badge with more analytics here before, but they turned into some vibecoding shit, so fuck them]
 
 ## Info
 My default configs (for basic workplace setup) are [here](https://github.com/RayChimera/configs)
